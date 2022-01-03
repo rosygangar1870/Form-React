@@ -1,0 +1,17 @@
+.form-border {
+  background: rgba(255, 255, 255, 0.918);
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+label {
+  font-weight: 630;
+  color: rgb(55, 56, 56);
+}
+.register-heading {
+  color: #230a44;
+  font-weight: 630;
+}
+
+.main {
+  display: block;
+}
